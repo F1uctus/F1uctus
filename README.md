@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 ### 🔭 I’m currently working on
-- My programming language, [Axion](https://github.com/F1uctus/Axion), due to my strong attraction to the design of programming languages.
-- [Crown framework](https://github.com/F1uctus/crown) - a flexible n' powerful tool to easily create your game with time-travelling support.
-- [Rainmeter](https://rainmeter.net)-related things (skins, tools, etc.) on Windows, and going to build my dotfiles for GNU/Linux some day.
-- Some simple scripts to simplify special and every day problems.
-- Tasks automation systems relying mainly on voice recognition ([VoxCommando](http://voxcommando.com/home/) and others).
+* My programming language, [Axion](https://github.com/F1uctus/Axion), due to my strong attraction to the design of programming languages.
+  * Also I'm looking over some growing languages, such as [Crystal](https://github.com/crystal-lang/crystal), [V](https://github.com/vlang/v), and more.
+* [Crown](https://github.com/F1uctus/crown) - a powerful library to easily create your game with time-travelling support.
+* [Rainmeter](https://rainmeter.net)-related things (skins, tools, etc.) on Windows, and going to build my dotfiles for GNU/Linux some day.
+* Some simple scripts to simplify special and every day problems.
+* Tasks automation systems relying mainly on voice recognition ([VoxCommando](http://voxcommando.com/home/) and others).
 
 — And I'll greatly appreciate if you want to help me with any of these! 🙂
 
