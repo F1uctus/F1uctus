@@ -22,13 +22,13 @@
         <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/java.png" /></td>
         <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/kotlin.png" /></td>
         <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/c.png" /></td>
+     </tr>
+     <tr>
         <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/js.png" /></td>
         <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/lua.svg" /></td>
         <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/regex.png" /></td>
         <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/mysql.png" /></td>
         <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/lazarus.png" /></td>
-    </tr>
-    <tr>
     </tr>
 </table>
 
