@@ -2,8 +2,8 @@
 
 <table>
      <tr>
-         <td><img src="https://github-readme-stats.vercel.app/api?username=F1uctus&theme=vue&show_icons=true&include_all_commits=true&hide_border=true" /></td>
-         <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1uctus&theme=vue&layout=compact" /></td>
+         <td><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=F1uctus&theme=vue&show_icons=true&include_all_commits=true&hide_border=true" /></a></td>
+         <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1uctus&theme=vue&layout=compact" /></a></td>
      </tr>
 </table>
 
