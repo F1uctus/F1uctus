@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-
-<img align="left" alt="F1uctus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=F1uctus&theme=vue&show_icons=true&include_all_commits=true&hide_border=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1uctus&theme=vue&layout=compact" />
-
-<br/><br/><br/><br/>
-<br/><br/><br/><br/>
-
+<table>
+     <tr>
+         <td><img src="https://github-readme-stats.vercel.app/api?username=F1uctus&theme=vue&show_icons=true&include_all_commits=true&hide_border=true" /></td>
+         <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1uctus&theme=vue&layout=compact" /></td>
+     </tr>
+</table>
 
 ### 🔭 I’m currently working on
 * My programming language, [Axion](https://github.com/F1uctus/Axion), due to my strong attraction to the design of programming languages.
