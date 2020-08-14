@@ -15,22 +15,19 @@
 
 ### ✨ My skills are
 
-<table>
-    <tr>
-        <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/dotnet.png" /></td>
-        <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/python.png" /></td>
-        <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/java.png" /></td>
-        <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/kotlin.png" /></td>
-        <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/c.png" /></td>
-     </tr>
-     <tr>
-        <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/js.png" /></td>
-        <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/lua.svg" /></td>
-        <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/regex.png" /></td>
-        <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/mysql.png" /></td>
-        <td align="center"><img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/lazarus.png" /></td>
-    </tr>
-</table>
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/dotnet.png" />](https://www.google.com/search?q=.NET)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/python.png" />](https://www.google.com/search?q=Python)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/java.png" />](https://www.google.com/search?q=Java)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/kotlin.png" />](https://www.google.com/search?q=Kotlin)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/c.png" />](https://www.google.com/search?q=C+programming+language)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/js.png" />](https://www.google.com/search?q=JavaScript)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/lua.svg" />](https://www.google.com/search?q=Lua)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/regex.png" />](https://www.google.com/search?q=Regular+Expressions)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/mysql.png" />](https://www.google.com/search?q=MySQL)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/lazarus.png" />](https://www.google.com/search?q=Lazarus)
+
+<br/>
+<br/>
 
 ...and I’m sure I have much hidden potential 😄
 
@@ -41,35 +38,14 @@
 
 ### 📫 How to reach me
 
-<table>
-    <tr>
-        <td align="center">
-            <a href="https://t.me/F1uctus" target="_blank">
-                <img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/telegram.png" />
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://vk.com/F1uctus" target="_blank">
-                <img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/vk.svg" />
-            </a>
-        </td>
-        <td align="center">
-            <a href="mailto:f1uctus@mail.ru" target="_blank">
-                <img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/mail.ru.png" />
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://reddit.com/u/F1uctus" target="_blank">
-                <img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/reddit.png" />
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://osu.ppy.sh/users/F1uctus" target="_blank">
-                <img height="48" width="48" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/osu!.png" />
-            </a>
-        </td>
-    </tr>
-</table>
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/telegram.png" />](https://t.me/F1uctus)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/vk.svg" />](https://vk.com/F1uctus)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/mail.ru.png" />](mailto:f1uctus@mail.ru)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/reddit.png" />](https://reddit.com/u/F1uctus)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/osu!.png" />](https://osu.ppy.sh/users/F1uctus)
+
+<br/>
+<br/>
 
 ### ⚡ Fun facts
 - I've started my journey to the programming world being nearly 12, and somehow my first experience was not a "Hello, world!",
