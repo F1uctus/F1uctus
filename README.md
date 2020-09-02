@@ -27,31 +27,25 @@
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" />](https://google.com/search?q=Arch+Linux)
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />](https://google.com/search?q=Bash)
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://google.com/search?q=Git)
-
+<br/><br/>
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg" />](https://google.com/search?q=GNU+Foundation)
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />](https://google.com/search?q=HTML)
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" />](https://google.com/search?q=.NET)
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" />](https://google.com/search?q=Python)
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />](https://google.com/search?q=Java)
-
+<br/><br/>
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />](https://google.com/search?q=Kotlin)
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />](https://google.com/search?q=JavaScript)
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" />](https://google.com/search?q=Lua)
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/regexplanet/regexplanet-tile.svg" />](https://google.com/search?q=Regular+Expressions)
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />](https://google.com/search?q=MySQL)
-
+<br/><br/>
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" />](https://google.com/search?q=JQuery)
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" />](https://google.com/search?q=NixOS)
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />](https://google.com/search?q=OpenCV)
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />](https://google.com/search?q=PostgreSQL)
 [<img align="left" width="48" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />](https://google.com/search?q=SQLite)
 
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
 <br/><br/>
 <br/><br/>
 <br/><br/>
