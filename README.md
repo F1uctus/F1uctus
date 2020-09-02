@@ -34,9 +34,6 @@
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/lazarus.png" />](https://www.google.com/search?q=Lazarus)
 
 <br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
 
 ...and I’m sure I have much hidden potential 😄
 
@@ -53,8 +50,7 @@
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/reddit.png" />](https://reddit.com/u/F1uctus)
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/osu!.png" />](https://osu.ppy.sh/users/F1uctus)
 
-<br/>
-<br/>
+<br/><br/>
 
 ### ⚡ Fun facts
 - I've started my journey to the programming world being nearly 12, and somehow my first experience was not a "Hello, world!",
