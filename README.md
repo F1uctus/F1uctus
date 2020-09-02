@@ -22,19 +22,33 @@
 
 ### ✨ My skills are
 
-[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/dotnet.png" />](https://www.google.com/search?q=.NET)
-[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/python.png" />](https://www.google.com/search?q=Python)
-[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/java.png" />](https://www.google.com/search?q=Java)
-[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/kotlin.png" />](https://www.google.com/search?q=Kotlin)
-[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/c.png" />](https://www.google.com/search?q=C+programming+language)
-[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/js.png" />](https://www.google.com/search?q=JavaScript)
-[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/lua.svg" />](https://www.google.com/search?q=Lua)
-[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/regex.png" />](https://www.google.com/search?q=Regular+Expressions)
-[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/mysql.png" />](https://www.google.com/search?q=MySQL)
-[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/lazarus.png" />](https://www.google.com/search?q=Lazarus)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/apache_ant/apache_ant-icon.svg" />](https://google.com/search?q=Apache+Ant)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" />](https://google.com/search?q=Arduino)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" />](https://google.com/search?q=Arch+Linux)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />](https://google.com/search?q=Bash)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://google.com/search?q=Git)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg" />](https://google.com/search?q=GNU+Foundation)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />](https://google.com/search?q=HTML)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" />](https://google.com/search?q=.NET)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" />](https://google.com/search?q=Python)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />](https://google.com/search?q=Java)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />](https://google.com/search?q=Kotlin)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />](https://google.com/search?q=JavaScript)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" />](https://google.com/search?q=Lua)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/regexplanet/regexplanet-tile.svg" />](https://google.com/search?q=Regular+Expressions)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />](https://google.com/search?q=MySQL)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" />](https://google.com/search?q=JQuery)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" />](https://google.com/search?q=NixOS)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />](https://google.com/search?q=OpenCV)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />](https://google.com/search?q=PostgreSQL)
+[<img align="left" width="64" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />](https://google.com/search?q=SQLite)
 
-<br/>
-<br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 ...and I’m sure I have much hidden potential 😄
 
