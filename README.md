@@ -42,6 +42,15 @@
 - Android (Kotlin/Dart) development
 - Some other technologies, that I've postponed for now
 
+### 🖥️ My workspaces are powered by
+- Windows
+  + 10 Insider Preview (Dev ring)
+- *nix
+  + NixOS Okapi
+  + Arch Linux
+  + macOS 10.15 Catalina (Hackintosh)
+- Android 8.0 + Termux
+
 ### 📫 How to reach me
 
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/telegram.png" />](https://t.me/F1uctus)
