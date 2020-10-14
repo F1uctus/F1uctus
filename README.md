@@ -44,12 +44,13 @@
 
 ### 🖥️ My workspaces are powered by
 - Windows
-  + 10 Insider Preview (Dev ring)
-- *nix
-  + NixOS Okapi
+  + 10 Insider Preview \[Dev ring\]
+- Unix
+  + Kali Linux \[Windows Subsystem for Linux\]
+  + NixOS 21 \[Okapi\]
   + Arch Linux
-  + macOS 10.15 Catalina (Hackintosh)
-- Android 8.0 + Termux
+  + macOS 10.15 \[Hackintosh\]
+  + Android 8.0 \[Termux\]
 
 ### 📫 How to reach me
 
