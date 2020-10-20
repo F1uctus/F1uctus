@@ -10,10 +10,12 @@
 ### 🔭 I’m currently working on
 * My programming language, [Axion](https://github.com/F1uctus/Axion), due to my strong attraction to the design of programming languages.
   * Also I'm looking over some growing languages, such as [Crystal](https://github.com/crystal-lang/crystal), [V](https://github.com/vlang/v), and more.
-* [Crown](https://github.com/F1uctus/crown) - a powerful game framework with time-travelling support. Used in [RPGram](https://github.com/Zemllia/RPGram) and [CotFK](https://github.com/F1uctus/cotfk).
-* [Rainmeter](https://rainmeter.net)-related things (skins, tools, etc.) on Windows, and going to build my dotfiles for GNU/Linux some day.
-* Some simple scripts to simplify special and every day problems.
-* Tasks automation systems relying mainly on voice recognition ([VoxCommando](http://voxcommando.com/home/) and others).
+* [Crown](https://github.com/F1uctus/crown) - a powerful game framework with time-travelling support.
+  <br>It is continuously evolving along with [RPGram](https://github.com/Zemllia/RPGram), [Escape from Castilla](https://github.com/F1uctus/escape-from-castilla), [Crown of the Fallen King](https://github.com/F1uctus/cotfk) and [Your game here].
+* [Rainmeter](https://rainmeter.net)-related things (skins, tools, etc.) on Windows.
+  * btw, I hope to build my dotfiles for GNU/Linux some day.
+* Tasks automation systems relying mainly on voice recognition (primarily [VoxCommando](http://voxcommando.com/home/)).
+* Some scripts to simplify everyday life.
 
 — And I'll greatly appreciate if you want to help me with any of these! 🙂
 
@@ -35,22 +37,22 @@
 
 <br/><br/>
 
-...and I’m sure I have much hidden potential 😄
+These skills mean that I'm experienced in technology stacks, related to given topics, and I've used them in my projects someway.
 
 ### 🌱 I’m currently learning (and looking forward to)
 - Web development stack (CSS, JS + frameworks)
-- Android (Kotlin/Dart) development
-- Some other technologies, that I've postponed for now
+- Cross-platform mobile development (Kotlin/Dart)
+- And some more technologies that I'm interested in, but I've not tried them yet.
 
 ### 🖥️ My workspaces are powered by
 - Windows
-  + 10 Insider Preview \[Dev ring\]
+  + 10 Insider Preview [Fast ring]
 - Unix
-  + Kali Linux \[Windows Subsystem for Linux\]
-  + NixOS 21 \[Okapi\]
+  + Kali Linux [Windows Subsystem for Linux]
+  + NixOS 21 [Okapi]
   + Arch Linux
-  + macOS 10.15 \[Hackintosh\]
-  + Android 8.0 \[Termux\]
+  + macOS 10.15 [Hackintosh]
+  + Android 8.0 [Termux]
 
 ### 📫 How to reach me
 
@@ -63,5 +65,6 @@
 <br/><br/>
 
 ### ⚡ Fun facts
-- I've started my journey to the programming world being nearly 12, and somehow my first experience was not a "Hello, world!",
+- 📟 I've started my journey to the programming world being nearly 12, and somehow my first experience was not a "Hello, world!",
 but attempts in .NET projects reverse-engineering. The learning curve was very steep, but it was worth it! :)
+- 🇯🇵 I'm interested not only in programming, but in human languages too, (I'd love to learn Japanese!)
