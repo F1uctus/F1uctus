@@ -34,6 +34,7 @@
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/regex.png" />](https://www.google.com/search?q=Regular+Expressions)
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/mysql.png" />](https://www.google.com/search?q=MySQL)
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/lazarus.png" />](https://www.google.com/search?q=Lazarus)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/swift.svg" />](https://www.google.com/search?q=Swift)
 
 <br/><br/>
 
