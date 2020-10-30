@@ -45,16 +45,6 @@ These skills mean that I'm experienced in technology stacks, related to given to
 - Cross-platform mobile development (Kotlin/Dart)
 - And some more technologies that I'm interested in, but I've not tried them yet.
 
-### 🖥️ My workspaces are powered by
-- Windows
-  + 10 Insider Preview [Fast ring]
-- Unix
-  + Kali Linux [Windows Subsystem for Linux]
-  + NixOS 21 [Okapi]
-  + Arch Linux
-  + macOS 10.15 [Hackintosh]
-  + Android 8.0 [Termux]
-
 ### 📫 How to reach me
 
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/telegram.png" />](https://t.me/F1uctus)
@@ -69,3 +59,25 @@ These skills mean that I'm experienced in technology stacks, related to given to
 - 📟 I've started my journey to the programming world being nearly 12, and somehow my first experience was not a "Hello, world!",
 but attempts in .NET projects reverse-engineering. The learning curve was very steep, but it was worth it! :)
 - 🇯🇵 I'm interested not only in programming, but in human languages too, (I'd love to learn Japanese!)
+
+<details>
+    <summary>
+         🖥️ My workspaces are powered by
+    </summary>
+    <ul>
+         <li>Windows</li>
+         <ul>
+              <li>10 Insider Preview [Fast ring]</li>
+         </ul>
+    </ul>
+    <ul>
+         <li>Unix</li>
+         <ul>
+              <li>Kali Linux [Windows Subsystem for Linux]</li>
+              <li>NixOS 21 [Okapi]</li>
+              <li>Arch Linux</li>
+              <li>macOS 10.15 [Hackintosh]</li>
+              <li>Android 8.0 [Termux]</li>
+         </ul>
+    </ul>
+</details>
