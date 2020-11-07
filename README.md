@@ -73,9 +73,7 @@ but attempts in .NET projects reverse-engineering. The learning curve was very s
     <ul>
          <li>Unix</li>
          <ul>
-              <li>Kali Linux [Windows Subsystem for Linux]</li>
-              <li>NixOS 21 [Okapi]</li>
-              <li>Arch Linux</li>
+              <li>Arch Linux [Windows Subsystem for Linux]</li>
               <li>macOS 10.15 [Hackintosh]</li>
               <li>Android 8.0 [Termux]</li>
          </ul>
