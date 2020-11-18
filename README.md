@@ -51,6 +51,7 @@ These skills mean that I'm experienced in technology stacks, related to given to
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/vk.svg" />](https://vk.com/F1uctus)
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/mail.ru.png" />](mailto:f1uctus@mail.ru)
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/reddit.png" />](https://reddit.com/u/F1uctus)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/gitlab.svg" />](https://gitlab.com/F1uctus)
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/osu!.png" />](https://osu.ppy.sh/users/F1uctus)
 
 <br/><br/>
