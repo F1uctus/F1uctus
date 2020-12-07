@@ -1,7 +1,7 @@
 ## 👋 Hi there
 
 <details>
-     <summary>Contribution statistics</summary>
+     <summary>📈 Contribution statistics</summary>
      <table>
           <tr>
               <td><a href="#-hi-there"><img src="https://github-readme-stats.vercel.app/api?username=F1uctus&theme=vue&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" /></a></td>
@@ -13,9 +13,9 @@
 
 ### 🔭 I’m currently working on
 * My programming language, [Axion](https://github.com/F1uctus/Axion), due to my strong attraction to the design of programming languages.
-  * Also I'm looking over some growing languages, such as [Crystal](https://github.com/crystal-lang/crystal), [V](https://github.com/vlang/v), and more.
+  * Also I'm looking for other growing languages, such as [Crystal](https://github.com/crystal-lang/crystal), [V](https://github.com/vlang/v), and more.
 * [Crown](https://github.com/F1uctus/crown) - a powerful game framework with time-travelling support.
-  <br>It is continuously evolving along with [RPGram](https://github.com/Zemllia/RPGram), [Escape from Castilla](https://github.com/F1uctus/escape-from-castilla), [Crown of the Fallen King](https://github.com/F1uctus/cotfk) and [Your game here].
+  <br>It is continuously evolving along with [RPGram](https://github.com/Zemllia/RPGram), [Escape from Castilla](https://github.com/F1uctus/escape-from-castilla), [Chessic](https://gitlab.com/F1uctus/Chessic), [Crown of the Fallen King](https://github.com/F1uctus/cotfk) and [Your game here].
 * [Rainmeter](https://rainmeter.net)-related things (skins, tools, etc.) on Windows.
   * btw, I hope to build my dotfiles for GNU/Linux some day.
 * Tasks automation systems relying mainly on voice recognition (primarily [VoxCommando](http://voxcommando.com/home/)).
