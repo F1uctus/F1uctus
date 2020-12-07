@@ -8,7 +8,7 @@
               <td><a href="#-hi-there"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1uctus&theme=vue&hide_border=true&layout=compact" /></a></td>
           </tr>
      </table>
-     <img width="94%" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=F1uctus" />
+     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=F1uctus" />
 </details>
 
 ### 🔭 I’m currently working on
