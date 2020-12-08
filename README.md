@@ -4,8 +4,10 @@
      <summary>📈 Contribution statistics</summary>
      <table>
           <tr>
-              <td><a href="#-hi-there"><img src="https://github-readme-stats.vercel.app/api?username=F1uctus&theme=vue&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" /></a></td>
-              <td><a href="#-hi-there"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1uctus&theme=vue&hide_border=true&layout=compact" /></a></td>
+              <td><a href="#-hi-there"><img src="https://github-readme-stats.f1uctus.vercel.app
+/api?username=F1uctus&theme=vue&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" /></a></td>
+              <td><a href="#-hi-there"><img src="https://github-readme-stats.f1uctus.vercel.app
+/api/top-langs/?username=F1uctus&theme=vue&hide_border=true&layout=compact" /></a></td>
           </tr>
      </table>
      <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=F1uctus" />
