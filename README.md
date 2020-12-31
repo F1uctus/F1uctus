@@ -45,8 +45,8 @@
 These skills mean that I'm experienced in technology stacks, related to given topics, and I've used them in my projects someway.
 
 ### 🌱 I’m currently learning (and looking forward to)
-- Web development stack (CSS, JS + frameworks)
-- Cross-platform mobile development (Kotlin/Dart)
+- High-performance stack (Rust, C/C++)
+- Cross-platform mobile development (Flutter/Kotlin)
 - And some more technologies that I'm interested in, but I've not tried them yet.
 
 ### 📫 How to reach me
