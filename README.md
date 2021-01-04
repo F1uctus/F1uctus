@@ -31,14 +31,14 @@
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/dotnet.png" />](https://www.google.com/search?q=.NET)
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/python.png" />](https://www.google.com/search?q=Python)
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/java.png" />](https://www.google.com/search?q=Java)
-[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/kotlin.png" />](https://www.google.com/search?q=Kotlin)
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/c.png" />](https://www.google.com/search?q=C+programming+language)
-[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/js.png" />](https://www.google.com/search?q=JavaScript)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/flutter.svg" />](https://www.google.com/search?q=Flutter)
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/lua.svg" />](https://www.google.com/search?q=Lua)
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/regex.png" />](https://www.google.com/search?q=Regular+Expressions)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/kotlin.png" />](https://www.google.com/search?q=Kotlin)
+[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/js.png" />](https://www.google.com/search?q=JavaScript)
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/mysql.png" />](https://www.google.com/search?q=MySQL)
 [<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/lazarus.png" />](https://www.google.com/search?q=Lazarus)
-[<img align="left" width="32" src="https://github.com/F1uctus/F1uctus/blob/master/images/swift.svg" />](https://www.google.com/search?q=Swift)
 
 <br/><br/>
 
