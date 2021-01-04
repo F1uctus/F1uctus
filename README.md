@@ -42,7 +42,7 @@
 
 <br/><br/>
 
-These skills mean that I'm experienced in these technology stacks, and I've used them in my projects someway.
+<sub><i>*These skills mean that I'm experienced in these technology stacks, and I've used them in my projects someway.</i></sub>
 
 ### 🌱 I’m currently learning (and looking forward to)
 - High-performance stack (Rust, C/C++)
