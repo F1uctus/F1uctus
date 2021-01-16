@@ -8,7 +8,7 @@
               <td><img src="https://github-readme-stats.f1uctus.vercel.app/api/top-langs/?username=F1uctus&theme=vue&hide_border=true&layout=compact" /></td>
           </tr>
      </table>
-     <img width="1024" src="https://github-profile-trophy.vercel.app/?username=f1uctus&theme=onedark&no-bg=true&no-frame=true&margin-w=15&margin-h=15" />
+     <img width="1024" src="https://github-profile-trophy.vercel.app/?username=f1uctus&theme=onedark&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=7" />
      <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=F1uctus" />
 </details>
 
