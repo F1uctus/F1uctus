@@ -81,8 +81,9 @@ but attempts in .NET projects reverse-engineering. The learning curve was very s
          <li>Unix</li>
          <ul>
               <li>Arch Linux [Windows Subsystem for Linux]</li>
+              <li>NixOS</li>
               <li>macOS 10.16 [Hackintosh]</li>
-              <li>Android 8.0 [Termux]</li>
+              <li>Android 9.0 [Termux]</li>
          </ul>
     </ul>
 </details>
