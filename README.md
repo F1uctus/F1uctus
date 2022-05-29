@@ -24,7 +24,7 @@
 * Tasks automation systems relying mainly on voice recognition (primarily [VoxCommando](http://voxcommando.com/home/)).
 * Some scripts to simplify everyday life.
 * Closed source:
-  * Spring Boot backend implementation of [Mediateka](https://media.infbdev.tech) cloud media storage platform & social network by [Intrafab](https://intrafab.tech).
+  * Spring Boot backend implementation of [Mediateka](https://media.intrafab.tech) cloud media storage platform & social network by [Intrafab](https://intrafab.tech).
 
 ### 👯 I’m looking to collaborate on...
 ... Almost any project — the main thing for me is a good team.
