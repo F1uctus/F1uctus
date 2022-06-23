@@ -15,7 +15,7 @@
 ### 🔭 I’m currently working on
 * An experimental programming language, [Axion](https://github.com/F1uctus/Axion), due to my strong attraction to the design of programming languages.
   * Also I'm inspired by other modern languages, such as [Unison](https://www.unison-lang.org), [Rust](https://www.rust-lang.org), [Lean 4](https://github.com/leanprover/lean4), and many more.
-* Conversation extraction NLP toolkit, TTC.
+* Conversation extraction NLP toolkit, [TTC](https://github.com/F1uctus/ttc)
 * Packaging Python modules for ARM architecture ([Python for Android](https://github.com/F1uctus/p4a-recipes)).
 
 ### 🎯 So far I’ve worked on
