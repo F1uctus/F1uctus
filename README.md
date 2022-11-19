@@ -88,9 +88,6 @@
   <a href="https://t.me/F1uctus">
     <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/telegram.png" />
   </a>
-  <a href="https://vk.com/F1uctus"> 
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/vk.svg" /> 
-  </a>
   <a href="mailto:ilya.i.nikitin@proton.me">
     <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/mail.ru.png" /> 
   </a>
