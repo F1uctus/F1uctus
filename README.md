@@ -18,7 +18,7 @@
 * Packaging Python modules for ARM architecture ([Python for Android](https://github.com/F1uctus/p4a-recipes)).
 
 ### 🎯 So far I’ve worked on
-* [Crown](https://github.com/F1uctus/crown) - a powerful game framework with time-travelling support;
+* [Crown](https://github.com/F1uctus/crown) - a powerful game framework with time-travelling support.
   <br>It is continuously evolving along with [RPGram](https://github.com/Zemllia/RPGram), [Escape from Castilla](https://github.com/F1uctus/escape-from-castilla), [Chessic](https://gitlab.com/F1uctus/Chessic), [Crown of the Fallen King](https://github.com/F1uctus/cotfk) and [Your game here];
 * [Rainmeter](https://rainmeter.net)-related things (skins, tools, etc.) on Windows;
   * btw, I hope to build my dotfiles for GNU/Linux some day;
