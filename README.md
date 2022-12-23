@@ -8,23 +8,22 @@
               <td><img src="https://github-readme-stats-f1uctus.vercel.app/api/top-langs/?username=F1uctus&theme=vue&hide_border=true&layout=compact" /></td>
           </tr>
      </table>
-     <img width="1024" src="https://github-profile-trophy.vercel.app/?username=f1uctus&theme=onedark&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=7" />
      <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=F1uctus" />
 </details>
 
 ### 🔭 I’m currently working on
 * An experimental programming language, [Axion](https://github.com/F1uctus/Axion), due to my strong attraction to the design of programming languages.
-  * Also I'm inspired by other modern languages, such as [Unison](https://www.unison-lang.org), [Rust](https://www.rust-lang.org), [Lean 4](https://github.com/leanprover/lean4), and many more.
-* Conversation extraction NLP toolkit, [TTC](https://github.com/F1uctus/ttc)
+  * Also I'm inspired by other modern languages, such as [Unison](https://www.unison-lang.org), [Rust](https://www.rust-lang.org), [Lean 4](https://github.com/leanprover/lean4), and many more;
+* Conversation extraction NLP toolkit, [TTC](https://github.com/F1uctus/ttc);
 * Packaging Python modules for ARM architecture ([Python for Android](https://github.com/F1uctus/p4a-recipes)).
 
 ### 🎯 So far I’ve worked on
-* [Crown](https://github.com/F1uctus/crown) - a powerful game framework with time-travelling support.
-  <br>It is continuously evolving along with [RPGram](https://github.com/Zemllia/RPGram), [Escape from Castilla](https://github.com/F1uctus/escape-from-castilla), [Chessic](https://gitlab.com/F1uctus/Chessic), [Crown of the Fallen King](https://github.com/F1uctus/cotfk) and [Your game here].
-* [Rainmeter](https://rainmeter.net)-related things (skins, tools, etc.) on Windows.
-  * btw, I hope to build my dotfiles for GNU/Linux some day.
-* Tasks automation systems relying mainly on voice recognition (primarily [VoxCommando](http://voxcommando.com/home/)).
-* Some scripts to simplify everyday life.
+* [Crown](https://github.com/F1uctus/crown) - a powerful game framework with time-travelling support;
+  <br>It is continuously evolving along with [RPGram](https://github.com/Zemllia/RPGram), [Escape from Castilla](https://github.com/F1uctus/escape-from-castilla), [Chessic](https://gitlab.com/F1uctus/Chessic), [Crown of the Fallen King](https://github.com/F1uctus/cotfk) and [Your game here];
+* [Rainmeter](https://rainmeter.net)-related things (skins, tools, etc.) on Windows;
+  * btw, I hope to build my dotfiles for GNU/Linux some day;
+* Tasks automation systems relying mainly on voice recognition (primarily [VoxCommando](http://voxcommando.com/home/));
+* Some scripts to simplify everyday life;
 * Closed source:
   * Spring Boot backend implementation of [Mediateka](https://media.dev.mediago.site) cloud media storage platform & social network.
 
@@ -78,8 +77,8 @@
 <sub><i>* I'm (at least a bit) experienced in these technology stacks, and I've used them in my projects someway.</i></sub>
 
 ### 🌱 I’m currently learning
-- High-performance stack (Rust, C/C++)
-- Cross-platform mobile development (Flutter/Kotlin)
+- High-performance stack (Rust, C/C++);
+- Cross-platform mobile development (Flutter/Kotlin);
 - Abstract stuff, such as HoTT, Category theory and proof assistants.
 
 ### 📫 How to reach me
@@ -114,7 +113,7 @@ but attempts in .NET projects reverse-engineering. The learning curve was very s
     <ul>
          <li>Windows</li>
          <ul>
-              <li>11 Insider Preview [Dev ring]</li>
+              <li>11 Insider Preview</li>
          </ul>
     </ul>
     <ul>
@@ -122,8 +121,7 @@ but attempts in .NET projects reverse-engineering. The learning curve was very s
          <ul>
               <li>NixOS</li>
               <li>Arch Linux [Windows Subsystem for Linux]</li>
-              <li>macOS 12.0.1 [Hackintosh]</li>
-              <li>Android 11.0 [Termux]</li>
+              <li>Android 11 [Termux]</li>
          </ul>
     </ul>
 </details>
