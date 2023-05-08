@@ -87,6 +87,9 @@
   <a href="https://t.me/F1uctus">
     <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/telegram.png" />
   </a>
+  <a href="https://codeberg.org/f1uctus">
+    <img width="32" hspace="5" src="https://codeberg.org/assets/img/logo.png" />
+  </a>
   <a href="mailto:ilya.i.nikitin@proton.me">
     <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/mail.ru.png" /> 
   </a>
