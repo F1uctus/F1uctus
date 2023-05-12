@@ -95,6 +95,9 @@
   </a>
   <a href="https://reddit.com/u/F1uctus">
     <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/reddit.png" /> 
+  <a href="https://discordapp.com/users/430682719933038593">
+     <img width="32" hspace="5" src="https://discord.com/assets/favicon.ico" />
+  </a>
   </a>
   <a href="https://gitlab.com/F1uctus">
     <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/gitlab.svg" /> 
