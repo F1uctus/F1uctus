@@ -79,7 +79,7 @@
 ### 🌱 I’m currently learning
 - High-performance stack (Rust, C/C++);
 - Cross-platform mobile development (Flutter/Kotlin);
-- Abstract stuff, such as HoTT, Category theory and proof assistants.
+- Abstract stuff, such as HoTT, Applied category theory and proof assistants.
 
 ### 📫 How to reach me
 
@@ -110,7 +110,7 @@
 ### ⚡ Fun facts
 - 📟 I've started my journey to the programming world being nearly 12, and somehow my first experience was not a "Hello, world!",
 but attempts in .NET projects reverse-engineering. The learning curve was very steep, but it was worth it!
-- 🇯🇵 I'm interested not only in programming, but in human languages too, (I'd love to learn Japanese!)
+- 🇯🇵 I'm interested not only in programming, but in human languages too, (I try to learn Japanese!)
 
 <details>
     <summary>
