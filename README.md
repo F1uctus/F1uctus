@@ -102,9 +102,6 @@
   <a href="https://gitlab.com/F1uctus">
     <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/gitlab.svg" /> 
   </a>
-  <a href="https://osu.ppy.sh/users/F1uctus">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/osu!.png" />
-  </a>
 </p>
 
 ### ⚡ Fun facts
