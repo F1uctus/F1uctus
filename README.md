@@ -4,11 +4,34 @@
      <summary>📈 Contribution statistics</summary>
      <table>
           <tr>
-              <td><img src="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api?username=F1uctus&theme=slateorange&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" /></td>
-              <td><img src="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api/top-langs/?username=F1uctus&theme=slateorange&hide_border=true&layout=compact" /></td>
-          </tr>
-     </table>
-     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=F1uctus" />
+              <td>
+                  <picture>
+                      <source
+                        srcset="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api?username=F1uctus&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true"
+                        media="(prefers-color-scheme: dark)"
+                      />
+                      <source
+                        srcset="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api?username=F1uctus&theme=gruvbox_light &show_icons=true&include_all_commits=true&hide_border=true&hide_title=true"
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                      />
+                      <img src="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api?username=F1uctus&theme=gruvbox_light&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+                  </picture>
+              <td>
+                  <picture>
+                      <source
+                        srcset="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api/top-langs/?username=F1uctus&theme=gruvbox&hide_border=true&layout=compact" 
+                        media="(prefers-color-scheme: dark)"
+                      />
+                      <source
+                        srcset="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api/top-langs/?username=F1uctus&theme=gruvbox_light&hide_border=true&layout=compact" 
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                      />
+                      <img src="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api/top-langs/?username=F1uctus&theme=gruvbox_light&hide_border=true&layout=compact" />
+                  </picture>
+             </td>
+         </tr>
+    </table>
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=F1uctus" />
 </details>
 
 ### 🔭 I’m currently working on
