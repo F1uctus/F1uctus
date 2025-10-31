@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-<details>
+<!--<details>
      <summary>📈 Contribution statistics</summary>
      <table>
           <tr>
@@ -14,7 +14,7 @@
                         srcset="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api?username=F1uctus&theme=gruvbox_light &show_icons=true&include_all_commits=true&hide_border=true&hide_title=true"
                         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                       />
-                      <img src="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api?username=F1uctus&theme=gruvbox_light&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+                      <img decoding="async" loading="lazy" src="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api?username=F1uctus&theme=gruvbox_light&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
                   </picture>
               <td>
                   <picture>
@@ -26,13 +26,13 @@
                         srcset="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api/top-langs/?username=F1uctus&theme=gruvbox_light&hide_border=true&layout=compact" 
                         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                       />
-                      <img src="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api/top-langs/?username=F1uctus&theme=gruvbox_light&hide_border=true&layout=compact" />
+                      <img decoding="async" loading="lazy" src="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api/top-langs/?username=F1uctus&theme=gruvbox_light&hide_border=true&layout=compact" />
                   </picture>
              </td>
          </tr>
     </table>
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=F1uctus" />
-</details>
+</details>-->
 
 ### 🔭 I’m currently working on
 * An experimental programming language, [Axion](https://github.com/F1uctus/Axion), due to my strong attraction to the design of programming languages.
