@@ -1,0 +1,37 @@
+name: Refresh stats cards
+
+on:
+  schedule:
+    - cron: "0 3 * * 1" # weekly, Monday 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Render cards
+        env:
+          PAT_1: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git clone --depth 1 https://github.com/anuraghazra/github-readme-stats grs
+          cp scripts/render-stats.mjs grs/
+          cd grs
+          npm ci --no-audit --no-fund
+          node render-stats.mjs "$GITHUB_WORKSPACE/generated"
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated
+          git diff --cached --quiet || git commit -m "Refresh stats cards"
+          git push
