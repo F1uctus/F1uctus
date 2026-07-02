@@ -1,39 +1,42 @@
 ## 👋 Hi there
 
-Math BSc '26, my thesis formalizes Kalman filtering in the Rocq prover.
+Math BSc '26. My thesis formalizes Kalman filtering in the Rocq prover.
 By day I build tooling that helps certify safety-critical embedded software.
 
 <p float="left">
   <a href="https://t.me/F1uctus">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/telegram.png" />
-  </a>
-  <a href="https://codeberg.org/f1uctus">
-    <img width="32" hspace="5" src="https://codeberg.org/assets/img/logo.png" />
+    <img width="32" hspace="5" title="Telegram" src="https://cdn.simpleicons.org/telegram" />
   </a>
   <a href="mailto:ilya.i.nikitin@proton.me">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/mail.ru.png" />
+    <img width="32" hspace="5" title="Proton Mail" src="https://cdn.simpleicons.org/protonmail" />
+  </a>
+  <a href="mailto:ilya.i.nikitin@mail.ru">
+    <img width="32" hspace="5" title="Mail.ru" src="https://cdn.simpleicons.org/maildotru" />
   </a>
   <a href="https://reddit.com/u/F1uctus">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/reddit.png" />
+    <img width="32" hspace="5" title="Reddit" src="https://cdn.simpleicons.org/reddit" />
   </a>
   <a href="https://discordapp.com/users/430682719933038593">
-    <img width="32" hspace="5" src="https://discord.com/assets/favicon.ico" />
+    <img width="32" hspace="5" title="Discord" src="https://cdn.simpleicons.org/discord" />
   </a>
   <a href="https://gitlab.com/F1uctus">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/gitlab.svg" />
+    <img width="32" hspace="5" title="GitLab" src="https://cdn.simpleicons.org/gitlab" />
+  </a>
+  <a href="https://codeberg.org/f1uctus">
+    <img width="32" hspace="5" title="Codeberg" src="https://cdn.simpleicons.org/codeberg" />
   </a>
 </p>
 
 ### I'm working on
 
 - 🧮 **Formal verification**:
-  [kalman.v](https://github.com/F1uctus/kalman.v), my BSc thesis, the Kalman filter formalized in [Rocq](https://rocq-prover.org)+[MathComp](https://github.com/math-comp/math-comp)+[Infotheo](https://github.com/affeldt-aist/infotheo)+[CoqEAL](https://github.com/rocq-community/coqeal). It is largely dedicated to discrete Riccati theory and the algebraic Riccati equation, and written upon Kailath–Sayed–Hassibi's *Linear Estimation*. The extracted OCaml produces the numerical experiments for the thesis. Previously I also did research on Kolmogorov–Arnold networks ([KAN](https://github.com/F1uctus/unn-rnd-kan)) at uni.
+  [kalman.v](https://github.com/F1uctus/kalman.v), my BSc thesis, the Kalman filter formalized in [Rocq](https://rocq-prover.org)+[MathComp](https://github.com/math-comp/math-comp)+[Infotheo](https://github.com/affeldt-aist/infotheo)+[CoqEAL](https://github.com/rocq-community/coqeal). It is largely dedicated to discrete Riccati theory and the algebraic Riccati equation, and written upon Kailath–Sayed–Hassibi's *Linear Estimation*. The extracted OCaml produces the numerical experiments for the thesis.
 - 🛠️ **Certifiable embedded (full-time job)**:
   I write the tools verification teams run: static analysis and instrumentation of embedded C with LLVM/libclang; statement, decision and MC/DC code coverage; DO-178C / DO-330 tool qualification; air-gapped CI.
 - ⚙️ **Language & tooling research**:
   [Axion](https://github.com/F1uctus/Axion), a long-running educational experiment: lexer, parser, C#/Python/Lua emitters. Smaller tools I maintain: [plint](https://github.com/F1uctus/plint), a PDF layout linter for frozen-print documents, and [rocq-comment-fmt](https://github.com/F1uctus/rocq-comment-fmt), a comment formatter for Rocq, both in OCaml; [vscode-scope-search](https://github.com/F1uctus/vscode-scope-search) for search & replace within semantic scopes; [typst-djvu](https://github.com/F1uctus/typst-djvu) for DjVu parsing in Typst (Rust → WASM); [textmate.typ](https://github.com/F1uctus/textmate.typ), a TextMate grammar converter.
-- 🗣️ **NLP**:
-  [ttc](https://github.com/F1uctus/ttc) library for reading fiction and working out who is speaking: a spaCy pipeline (NER, coreference, span classification), ~80% attribution accuracy. [webanno2spacy](https://github.com/F1uctus/webanno2spacy) bridges WebAnno annotations to spaCy, on PyPI.
+- 🗣️ **NLP & ML**:
+  [ttc](https://github.com/F1uctus/ttc) library for reading fiction and working out who is speaking: a spaCy pipeline (NER, coreference, span classification), ~80% attribution accuracy. [webanno2spacy](https://github.com/F1uctus/webanno2spacy) bridges WebAnno annotations to spaCy, on PyPI. Previously I also did research on Kolmogorov–Arnold networks ([KAN](https://github.com/F1uctus/unn-rnd-kan)) at uni.
 - 📟 **Systems**:
   I port postmarketOS to phones I have on my shelf: mainline Linux 6.17+ and lk2nd on the [ZTE Blade S6](https://github.com/F1uctus/zte-blade-s6-postmarketos), with a new DRM driver for its JDI TD4291 panel; also I do experiments with Hexagon cDSP compute offload on the Redmi Note 9 Pro, patching the FastRPC kernel driver and userspace until signed DSP libraries load outside Android. An old Galaxy A8+ waits its turn.
 - 📱 **Mobile**:  **storyteller**, a Flutter audiobook app with an embedded CPython runtime: the ttc pipeline runs on-device, reading EPUB/FB2/DjVu aloud with per-character voices. Getting spaCy onto a phone took python-for-android recipes for its whole C-extension stack (numpy, blis, thinc…), collected in [p4a-recipes](https://github.com/F1uctus/p4a-recipes).
@@ -58,7 +61,7 @@ By day I build tooling that helps certify safety-critical embedded software.
     </td>
   </tr>
   <tr>
-    <td><b>I make enterprise software in</b></td>
+    <td><b>I've shipped products in</b></td>
     <td>
       <img width="28" hspace="4" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
       <img width="28" hspace="4" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
