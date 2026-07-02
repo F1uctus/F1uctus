@@ -1,110 +1,7 @@
 ## 👋 Hi there
 
-<!--<details>
-     <summary>📈 Contribution statistics</summary>
-     <table>
-          <tr>
-              <td>
-                  <picture>
-                      <source
-                        srcset="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api?username=F1uctus&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true"
-                        media="(prefers-color-scheme: dark)"
-                      />
-                      <source
-                        srcset="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api?username=F1uctus&theme=gruvbox_light &show_icons=true&include_all_commits=true&hide_border=true&hide_title=true"
-                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                      />
-                      <img decoding="async" loading="lazy" src="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api?username=F1uctus&theme=gruvbox_light&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-                  </picture>
-              <td>
-                  <picture>
-                      <source
-                        srcset="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api/top-langs/?username=F1uctus&theme=gruvbox&hide_border=true&layout=compact" 
-                        media="(prefers-color-scheme: dark)"
-                      />
-                      <source
-                        srcset="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api/top-langs/?username=F1uctus&theme=gruvbox_light&hide_border=true&layout=compact" 
-                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                      />
-                      <img decoding="async" loading="lazy" src="https://github-readme-stats-git-main-ilya-nikitins-projects.vercel.app/api/top-langs/?username=F1uctus&theme=gruvbox_light&hide_border=true&layout=compact" />
-                  </picture>
-             </td>
-         </tr>
-    </table>
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=F1uctus" />
-</details>-->
-
-### 🔭 I’m currently working on
-* An experimental programming language, [Axion](https://github.com/F1uctus/Axion), due to my strong attraction to the design of programming languages.
-  * Also I'm inspired by other modern languages, such as [Unison](https://www.unison-lang.org), [Rust](https://www.rust-lang.org), [Lean 4](https://github.com/leanprover/lean4), and many more;
-* Conversation extraction NLP toolkit, [TTC](https://github.com/F1uctus/ttc);
-* Packaging Python modules for ARM architecture ([Python for Android](https://github.com/F1uctus/p4a-recipes)).
-
-### 🎯 So far I’ve worked on
-* [Crown](https://github.com/F1uctus/crown) - a powerful game framework with time-travelling support.
-  <br>It is continuously evolving along with [RPGram](https://github.com/Zemllia/RPGram), [Escape from Castilla](https://github.com/F1uctus/escape-from-castilla), [Chessic](https://gitlab.com/F1uctus/Chessic), [Crown of the Fallen King](https://github.com/F1uctus/cotfk) and [Your game here];
-* [Rainmeter](https://rainmeter.net)-related things (skins, tools, etc.) on Windows;
-  * btw, I hope to build my dotfiles for GNU/Linux some day;
-* Tasks automation systems relying mainly on voice recognition (primarily [VoxCommando](http://voxcommando.com/home/));
-* Some scripts to simplify everyday life;
-* Closed source:
-  * Spring Boot backend implementation of [Mediateka](https://media.dev.mediago.site) cloud media storage platform & social network.
-
-### 👯 I’m looking to collaborate on...
-... Almost any project — the main thing for me is a good team.
-
-### ✨ My skills are
-
-<p float="left">
-  <a href="https://www.google.com/search?q=.NET">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/dotnet.png" />
-  </a>
-  <a href="https://www.google.com/search?q=Python">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/python.png" />
-  </a>
-  <a href="https://www.google.com/search?q=Java">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/java.png" />
-  </a>
-  <a href="https://www.google.com/search?q=Spring+Framework">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/spring.svg" />
-  </a>
-  <a href="https://www.google.com/search?q=C+programming+language">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/c.png" />
-  </a>
-  <a href="https://www.google.com/search?q=Flutter">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/flutter.svg" />
-  </a>
-  <a href="https://www.google.com/search?q=Lua">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/lua.svg" />
-  </a>
-  <a href="https://www.google.com/search?q=Regular+Expressions">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/regex.png" />
-  </a>
-  <a href="https://www.google.com/search?q=Kotlin">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/kotlin.png" />
-  </a>
-  <a href="https://www.google.com/search?q=JavaScript">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/js.png" />
-  </a>
-  <a href="https://www.google.com/search?q=Docker">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/docker.webp" />
-  </a>
-  <a href="https://www.google.com/search?q=MySQL">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/mysql.png" />
-  </a>
-  <a href="https://www.google.com/search?q=Lazarus">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/lazarus.png" />
-  </a>
-</p>
-
-<sub><i>* I'm (at least a bit) experienced in these technology stacks, and I've used them in my projects someway.</i></sub>
-
-### 🌱 I’m currently learning
-- High-performance stack (Rust, C/C++);
-- Cross-platform mobile development (Flutter/Kotlin);
-- Abstract stuff, such as HoTT, Applied category theory and proof assistants.
-
-### 📫 How to reach me
+Math BSc '26, my thesis formalizes Kalman filtering in the Rocq prover.
+By day I build tooling that helps certify safety-critical embedded software.
 
 <p float="left">
   <a href="https://t.me/F1uctus">
@@ -114,40 +11,116 @@
     <img width="32" hspace="5" src="https://codeberg.org/assets/img/logo.png" />
   </a>
   <a href="mailto:ilya.i.nikitin@proton.me">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/mail.ru.png" /> 
+    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/mail.ru.png" />
   </a>
   <a href="https://reddit.com/u/F1uctus">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/reddit.png" /> 
-  <a href="https://discordapp.com/users/430682719933038593">
-     <img width="32" hspace="5" src="https://discord.com/assets/favicon.ico" />
+    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/reddit.png" />
   </a>
+  <a href="https://discordapp.com/users/430682719933038593">
+    <img width="32" hspace="5" src="https://discord.com/assets/favicon.ico" />
   </a>
   <a href="https://gitlab.com/F1uctus">
-    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/gitlab.svg" /> 
+    <img width="32" hspace="5" src="https://github.com/F1uctus/F1uctus/blob/master/images/social/gitlab.svg" />
   </a>
 </p>
 
-### ⚡ Fun facts
-- 📟 I've started my journey to the programming world being nearly 12, and somehow my first experience was not a "Hello, world!",
-but attempts in .NET projects reverse-engineering. The learning curve was very steep, but it was worth it!
-- 🇯🇵 I'm interested not only in programming, but in human languages too, (I try to learn Japanese!)
+### I'm working on
+
+- 🧮 **Formal verification**:
+  [kalman.v](https://github.com/F1uctus/kalman.v), my BSc thesis, the Kalman filter formalized in [Rocq](https://rocq-prover.org)+[MathComp](https://github.com/math-comp/math-comp)+[Infotheo](https://github.com/affeldt-aist/infotheo)+[CoqEAL](https://github.com/rocq-community/coqeal). It is largely dedicated to discrete Riccati theory and the algebraic Riccati equation, and written upon Kailath–Sayed–Hassibi's *Linear Estimation*. The extracted OCaml produces the numerical experiments for the thesis. Previously I also did research on Kolmogorov–Arnold networks ([KAN](https://github.com/F1uctus/unn-rnd-kan)) at uni.
+- 🛠️ **Certifiable embedded (full-time job)**:
+  I write the tools verification teams run: static analysis and instrumentation of embedded C with LLVM/libclang; statement, decision and MC/DC code coverage; DO-178C / DO-330 tool qualification; air-gapped CI.
+- ⚙️ **Language & tooling research**:
+  [Axion](https://github.com/F1uctus/Axion), a long-running educational experiment: lexer, parser, C#/Python/Lua emitters. Smaller tools I maintain: [plint](https://github.com/F1uctus/plint), a PDF layout linter for frozen-print documents, and [rocq-comment-fmt](https://github.com/F1uctus/rocq-comment-fmt), a comment formatter for Rocq, both in OCaml; [vscode-scope-search](https://github.com/F1uctus/vscode-scope-search) for search & replace within semantic scopes; [typst-djvu](https://github.com/F1uctus/typst-djvu) for DjVu parsing in Typst (Rust → WASM); [textmate.typ](https://github.com/F1uctus/textmate.typ), a TextMate grammar converter.
+- 🗣️ **NLP**:
+  [ttc](https://github.com/F1uctus/ttc) library for reading fiction and working out who is speaking: a spaCy pipeline (NER, coreference, span classification), ~80% attribution accuracy. [webanno2spacy](https://github.com/F1uctus/webanno2spacy) bridges WebAnno annotations to spaCy, on PyPI.
+- 📟 **Systems**:
+  I port postmarketOS to phones I have on my shelf: mainline Linux 6.17+ and lk2nd on the [ZTE Blade S6](https://github.com/F1uctus/zte-blade-s6-postmarketos), with a new DRM driver for its JDI TD4291 panel; also I do experiments with Hexagon cDSP compute offload on the Redmi Note 9 Pro, patching the FastRPC kernel driver and userspace until signed DSP libraries load outside Android. An old Galaxy A8+ waits its turn.
+- 📱 **Mobile**:  **storyteller**, a Flutter audiobook app with an embedded CPython runtime: the ttc pipeline runs on-device, reading EPUB/FB2/DjVu aloud with per-character voices. Getting spaCy onto a phone took python-for-android recipes for its whole C-extension stack (numpy, blis, thinc…), collected in [p4a-recipes](https://github.com/F1uctus/p4a-recipes).
+
+### Toolbox
+
+<table>
+  <tr>
+    <td><b>I write daily</b></td>
+    <td>
+      <img width="28" hspace="4" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+      <img width="28" hspace="4" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+      <img width="28" hspace="4" title="OCaml" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" />
+      <img width="28" hspace="4" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+      <img width="28" hspace="4" title="Typst" src="https://cdn.simpleicons.org/typst" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Proof assistants I know</b></td>
+    <td>
+      <img width="28" hspace="4" title="Rocq (MathComp · Infotheo · CoqEAL)" src="https://raw.githubusercontent.com/F1uctus/kalman.v/main/paper/images/icon-rocq-orange.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>I make enterprise software in</b></td>
+    <td>
+      <img width="28" hspace="4" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+      <img width="28" hspace="4" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+      <img width="28" hspace="4" title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+      <img width="28" hspace="4" title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+      <img width="28" hspace="4" title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+      <img width="28" hspace="4" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Libraries &amp; infra I constantly use</b></td>
+    <td>
+      <picture>
+        <source srcset="https://cdn.simpleicons.org/llvm/9aa7b3" media="(prefers-color-scheme: dark)" />
+        <img width="28" hspace="4" title="LLVM / libclang" src="https://cdn.simpleicons.org/llvm" />
+      </picture>
+      <img width="28" hspace="4" title="spaCy" src="https://cdn.simpleicons.org/spacy" />
+      <img width="28" hspace="4" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+      <img width="28" hspace="4" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+      <img width="28" hspace="4" title="NixOS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" />
+    </td>
+  </tr>
+</table>
 
 <details>
-    <summary>
-         🖥️ My workspaces are powered by
-    </summary>
-    <ul>
-         <li>Windows</li>
-         <ul>
-              <li>11 Insider Preview</li>
-         </ul>
-    </ul>
-    <ul>
-         <li>Unix</li>
-         <ul>
-              <li>NixOS</li>
-              <li>Arch Linux [Windows Subsystem for Linux]</li>
-              <li>Android 11 [Termux]</li>
-         </ul>
-    </ul>
+<summary>📈 GitHub statistics</summary>
+<br/>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source srcset="https://raw.githubusercontent.com/F1uctus/F1uctus/master/generated/stats-dark.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://raw.githubusercontent.com/F1uctus/F1uctus/master/generated/stats-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img decoding="async" loading="lazy" alt="Contribution stats" src="https://raw.githubusercontent.com/F1uctus/F1uctus/master/generated/stats-light.svg" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source srcset="https://raw.githubusercontent.com/F1uctus/F1uctus/master/generated/langs-dark.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://raw.githubusercontent.com/F1uctus/F1uctus/master/generated/langs-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img decoding="async" loading="lazy" alt="Top languages" src="https://raw.githubusercontent.com/F1uctus/F1uctus/master/generated/langs-light.svg" />
+      </picture>
+    </td>
+  </tr>
+</table>
 </details>
+
+<details>
+<summary>🗄️ 2014–2022</summary>
+<br/>
+
+I got into programming around age 12: not with a "Hello, world!", but by trying to
+reverse-engineer .NET apps. The learning curve was steep, and worth every step of it.
+What followed, roughly in order:
+
+- ⛈️ **Rainmeter era** (desktop customization): [jarvis-desktop](https://github.com/F1uctus/jarvis-desktop) (the 2014 original), [Rainautica](https://github.com/F1uctus/Rainautica), [Kite](https://github.com/F1uctus/Kite), [DDLC-Visualizer](https://github.com/F1uctus/DDLC-Visualizer), and [pyrmont](https://github.com/F1uctus/pyrmont), a static skin generator;
+- 🗣️ **Voice control** (VoxCommando plugins): [VC-Serial](https://github.com/F1uctus/VC-Serial) (bundled with the default install), [VC-Vision](https://github.com/F1uctus/VC-Vision), [VC-RoboB-2](https://github.com/F1uctus/VC-RoboB-2);
+- 🎮 **Java games**: [crown](https://github.com/F1uctus/crown), a game framework with time-travelling support, and games built on it ([cotfk](https://github.com/F1uctus/cotfk), [escape-from-castilla](https://github.com/F1uctus/escape-from-castilla));
+- 🧰 **C# / .NET**: [CodeConsole](https://github.com/F1uctus/CodeConsole), [Magnolia](https://github.com/F1uctus/Magnolia) (Roslyn source generators), [bloom](https://github.com/F1uctus/bloom) for desktop automation;
+- ☕ **Mediateka**: a Spring Boot / Spring Cloud microservice backend for a cloud media-storage platform and social network, from my first backend job.
+
+</details>
+
+<sub>🇯🇵 Off-keyboard I'm slowly learning Japanese.</sub>
+
