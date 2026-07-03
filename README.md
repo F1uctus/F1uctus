@@ -48,41 +48,43 @@ Off-keyboard I'm usually into reading and also slowly learning Japanese.
   <tr>
     <td><b>I write daily</b></td>
     <td>
-      <img width="28" hspace="4" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-      <img width="28" hspace="4" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-      <img width="28" hspace="4" title="OCaml" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" />
-      <img width="28" hspace="4" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-      <img width="28" hspace="4" title="Typst" src="https://cdn.simpleicons.org/typst" />
+      <a href="https://www.python.org"><img width="28" hspace="4" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
+      <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img width="28" hspace="4" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></a>
+      <a href="https://ocaml.org"><img width="28" hspace="4" title="OCaml" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" /></a>
+      <a href="https://www.typescriptlang.org"><img width="28" hspace="4" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
+      <a href="https://typst.app"><img width="28" hspace="4" title="Typst" src="https://cdn.simpleicons.org/typst" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Proof assistants I know</b></td>
     <td>
-      <img width="28" hspace="4" title="Rocq (MathComp · Infotheo · CoqEAL)" src="https://raw.githubusercontent.com/F1uctus/kalman.v/main/paper/images/icon-rocq-orange.svg" />
+      <a href="https://rocq-prover.org"><img width="28" hspace="4" title="Rocq (MathComp · Infotheo · CoqEAL)" src="https://raw.githubusercontent.com/F1uctus/kalman.v/main/paper/images/icon-rocq-orange.svg" /></a>
     </td>
   </tr>
   <tr>
     <td><b>I've shipped products in</b></td>
     <td>
-      <img width="28" hspace="4" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-      <img width="28" hspace="4" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-      <img width="28" hspace="4" title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-      <img width="28" hspace="4" title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-      <img width="28" hspace="4" title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-      <img width="28" hspace="4" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+      <a href="https://go.dev"><img width="28" hspace="4" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /></a>
+      <a href="https://dev.java"><img width="28" hspace="4" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
+      <a href="https://spring.io"><img width="28" hspace="4" title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></a>
+      <a href="https://dart.dev"><img width="28" hspace="4" title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /></a>
+      <a href="https://flutter.dev"><img width="28" hspace="4" title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /></a>
+      <a href="https://learn.microsoft.com/dotnet/csharp/"><img width="28" hspace="4" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Libraries &amp; infra I constantly use</b></td>
     <td>
-      <picture>
-        <source srcset="https://cdn.simpleicons.org/llvm/9aa7b3" media="(prefers-color-scheme: dark)" />
-        <img width="28" hspace="4" title="LLVM / libclang" src="https://cdn.simpleicons.org/llvm" />
-      </picture>
-      <img width="28" hspace="4" title="spaCy" src="https://cdn.simpleicons.org/spacy" />
-      <img width="28" hspace="4" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-      <img width="28" hspace="4" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-      <img width="28" hspace="4" title="NixOS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" />
+      <a href="https://llvm.org">
+        <picture>
+          <source srcset="https://cdn.simpleicons.org/llvm/9aa7b3" media="(prefers-color-scheme: dark)" />
+          <img width="28" hspace="4" title="LLVM / libclang" src="https://cdn.simpleicons.org/llvm" />
+        </picture>
+      </a>
+      <a href="https://spacy.io"><img width="28" hspace="4" title="spaCy" src="https://cdn.simpleicons.org/spacy" /></a>
+      <a href="https://www.postgresql.org"><img width="28" hspace="4" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></a>
+      <a href="https://www.docker.com"><img width="28" hspace="4" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
+      <a href="https://nixos.org"><img width="28" hspace="4" title="NixOS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" /></a>
     </td>
   </tr>
 </table>
