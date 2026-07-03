@@ -2,6 +2,7 @@
 
 Math BSc '26. My thesis formalizes Kalman filtering in the Rocq prover.
 By day I build tooling that helps certify safety-critical embedded software.
+Off-keyboard I'm usually into reading and also slowly learning Japanese.
 
 <p float="left">
   <a href="https://t.me/F1uctus">
@@ -124,6 +125,3 @@ What followed, roughly in order:
 - ☕ **Mediateka**: a Spring Boot / Spring Cloud microservice backend for a cloud media-storage platform and social network, from my first backend job.
 
 </details>
-
-<sub>🇯🇵 Off-keyboard I'm slowly learning Japanese.</sub>
-
