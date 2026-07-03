@@ -31,7 +31,7 @@ Off-keyboard I'm usually into reading and also slowly learning Japanese.
 ### I'm working on
 
 - 🧮 **Formal verification**:
-  [kalman.v](https://github.com/F1uctus/kalman.v), my BSc thesis, the Kalman filter formalized in [Rocq](https://rocq-prover.org)+[MathComp](https://github.com/math-comp/math-comp)+[Infotheo](https://github.com/affeldt-aist/infotheo)+[CoqEAL](https://github.com/rocq-community/coqeal). It is largely dedicated to discrete Riccati theory and the algebraic Riccati equation, and written upon Kailath–Sayed–Hassibi's *Linear Estimation*. The extracted OCaml produces the numerical experiments for the thesis.
+  [kalman.v](https://github.com/F1uctus/kalman.v), my BSc thesis, the Kalman filter formalized in [Rocq](https://rocq-prover.org), [MathComp](https://github.com/math-comp/math-comp), [Infotheo](https://github.com/affeldt-aist/infotheo) & [CoqEAL](https://github.com/rocq-community/coqeal). It is largely dedicated to discrete Riccati theory and the algebraic Riccati equation, and written upon Kailath–Sayed–Hassibi's *Linear Estimation*. The extracted OCaml produces the numerical experiments for the thesis.
 - 🛠️ **Certifiable embedded (full-time job)**:
   I write the tools verification teams run: static analysis and instrumentation of embedded C with LLVM/libclang; statement, decision and MC/DC code coverage; DO-178C / DO-330 tool qualification; air-gapped CI.
 - ⚙️ **Language & tooling research**:
