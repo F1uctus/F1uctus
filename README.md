@@ -56,7 +56,7 @@ Off-keyboard I'm usually into reading and also slowly learning Japanese.
     </td>
   </tr>
   <tr>
-    <td><b>Proof assistants I know</b></td>
+    <td><b>Provers I've used</b></td>
     <td>
       <a href="https://rocq-prover.org"><img width="28" hspace="4" title="Rocq (MathComp · Infotheo · CoqEAL)" src="https://raw.githubusercontent.com/F1uctus/kalman.v/main/paper/images/icon-rocq-orange.svg" /></a>
     </td>
