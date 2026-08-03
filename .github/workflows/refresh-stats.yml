@@ -20,7 +20,7 @@ jobs:
 
       - name: Render cards
         env:
-          PAT_1: ${{ secrets.GITHUB_TOKEN }}
+          PAT_1: ${{ secrets.PAT_1 }}
         run: |
           git clone --depth 1 https://github.com/anuraghazra/github-readme-stats grs
           cp scripts/render-stats.mjs grs/
