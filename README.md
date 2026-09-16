@@ -96,16 +96,16 @@ Off-keyboard I'm usually into reading and also slowly learning Japanese.
   <tr>
     <td>
       <picture>
-        <source srcset="https://raw.githubusercontent.com/F1uctus/F1uctus/master/generated/stats-dark.svg" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://raw.githubusercontent.com/F1uctus/F1uctus/master/generated/stats-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img decoding="async" loading="lazy" alt="Contribution stats" src="https://raw.githubusercontent.com/F1uctus/F1uctus/master/generated/stats-light.svg" />
+        <source srcset="./profile/stats-dark.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./profile/stats-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img decoding="async" loading="lazy" alt="Contribution stats" src="./profile/stats-light.svg" />
       </picture>
     </td>
     <td>
       <picture>
-        <source srcset="https://raw.githubusercontent.com/F1uctus/F1uctus/master/generated/langs-dark.svg" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://raw.githubusercontent.com/F1uctus/F1uctus/master/generated/langs-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img decoding="async" loading="lazy" alt="Top languages" src="https://raw.githubusercontent.com/F1uctus/F1uctus/master/generated/langs-light.svg" />
+        <source srcset="./profile/langs-dark.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./profile/langs-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img decoding="async" loading="lazy" alt="Top languages" src="./profile/langs-light.svg" />
       </picture>
     </td>
   </tr>
