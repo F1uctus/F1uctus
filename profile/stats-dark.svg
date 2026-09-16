@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ilya Nikitin&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 69, Total Commits  : 5242, Total PRs: 26, Total Issues: 340, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 69, Total Commits  : 5243, Total PRs: 26, Total Issues: 340, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #fabd2f;
+            fill: #4493f8;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #8ec07c;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #9198a1;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8ec07c;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9198a1;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #fe8019;
+      fill: #4493f8;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #fabd2f;
+      stroke: #4493f8;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #fabd2f;
+      stroke: #4493f8;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 104.87756265064348;
+        stroke-dashoffset: 104.87679570545573;
       }
     }
   
@@ -116,9 +116,9 @@
           y="0.5"
           rx="4.5"
           height="99%"
-          stroke="#e4e2e2"
+          stroke="#3d444d"
           width="466"
-          fill="#282828"
+          fill="#0d1117"
           stroke-opacity="0"
         />
 
