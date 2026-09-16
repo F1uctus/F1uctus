@@ -1,0 +1,54 @@
+name: Stats cards
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=gruvbox
+          path: profile/stats-dark.svg
+          token: ${{ secrets.PAT_1 }}
+          fail_on_error: true
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=gruvbox_light
+          path: profile/stats-light.svg
+          token: ${{ secrets.PAT_1 }}
+          fail_on_error: true
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: layout=compact&hide_border=true&theme=gruvbox
+          path: profile/langs-dark.svg
+          token: ${{ secrets.PAT_1 }}
+          fail_on_error: true
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: layout=compact&hide_border=true&theme=gruvbox_light
+          path: profile/langs-light.svg
+          token: ${{ secrets.PAT_1 }}
+          fail_on_error: true
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile
+          git diff --cached --quiet || git commit -m "Refresh stats cards"
+          git push
