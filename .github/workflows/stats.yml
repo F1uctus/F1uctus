@@ -17,7 +17,7 @@ jobs:
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=gruvbox
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=dark_github
           path: profile/stats-dark.svg
           token: ${{ secrets.PAT_1 }}
           fail_on_error: true
@@ -25,7 +25,7 @@ jobs:
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=gruvbox_light
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=light_github
           path: profile/stats-light.svg
           token: ${{ secrets.PAT_1 }}
           fail_on_error: true
@@ -33,7 +33,7 @@ jobs:
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=gruvbox
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=dark_github
           path: profile/langs-dark.svg
           token: ${{ secrets.PAT_1 }}
           fail_on_error: true
@@ -41,7 +41,7 @@ jobs:
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=gruvbox_light
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=light_github
           path: profile/langs-light.svg
           token: ${{ secrets.PAT_1 }}
           fail_on_error: true
